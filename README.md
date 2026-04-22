@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor MRI Classification
+#  Brain Tumor MRI Classification
 
 A multi-stage deep learning study for classifying brain tumors from MRI scans, progressing from initial hyperparameter tuning to leakage-free validation with rigorous cross-validation.
 
