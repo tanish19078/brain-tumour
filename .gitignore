@@ -16,3 +16,7 @@ Thumbs.db
 
 # Large archives (not needed in repo)
 tuning_results.zip
+
+# Model weights over GitHub 100MB limit
+stage-4-architecture-search/content/hypertuning_results/convnext_tiny/best_model.pth
+stage-4-architecture-search/content/hypertuning_results/swin_tiny_patch4_window7_224/best_model.pth
