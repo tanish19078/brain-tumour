@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+albumentations
+optuna
+scikit-learn
+pandas
+numpy
+opencv-python
+tqdm
+xgboost
