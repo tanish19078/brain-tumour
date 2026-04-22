@@ -1,0 +1,17 @@
+category,image,entropy,variance,confidence
+Glioma_as_Meningioma,763.png,0.11740337,4.2843265e-08,0.97493356
+Glioma_as_Meningioma,808.png,0.38804016,9.934107e-08,0.8703021
+Glioma_as_Meningioma,772.png,0.09394428,8.071466e-08,0.98104846
+Glioma_as_Meningioma,882.png,0.2539587,1.241812e-07,0.9302825
+Glioma_as_Meningioma,881.png,0.5426266,5.972106e-08,0.77458256
+Glioma_as_Meningioma,761.png,0.15097634,6.208817e-08,0.9654502
+Glioma_as_Meningioma,837.png,0.5443348,1.4902374e-08,0.7660751
+Glioma_as_Meningioma,846.png,0.02213668,3.974613e-08,0.9967957
+Glioma_as_Meningioma,762.png,0.2406649,1.0431783e-07,0.9353135
+Glioma_as_Meningioma,838.png,0.5592959,8.940697e-08,0.7659189
+Pituitary_as_Glioma,997.png,0.55995226,3.4769375e-08,0.8349585
+Pituitary_as_Meningioma,995.png,0.04096124,4.0085677e-08,0.9937534
+Pituitary_as_Meningioma,994.png,0.15264845,1.0345442e-07,0.96783775
+Pituitary_as_Meningioma,1247.png,0.6720669,6.9548456e-08,0.6068642
+Meningioma_as_Glioma,137.png,0.26319858,8.940757e-08,0.9263364
+Meningioma_as_Glioma,599.png,0.49214643,6.9558155e-08,0.8085481
